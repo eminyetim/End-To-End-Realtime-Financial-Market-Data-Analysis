@@ -1,6 +1,6 @@
 **Project Architecture**
 
-![](images/image)
+![](images/image.jpeg)
 
 - **The goal of the project**
 - In our project, a continuous data flow was provided via Apache Kafka with historical and current data received from financial markets. Market trends were analyzed and predictions were made for future movements using Apache Spark. MongoDB has been used to store market data and forecast results
